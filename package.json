@@ -1,0 +1,7 @@
+{
+  "name": "todo_grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antonio Gabriel <antoniocamposgabriel@gmail.com>",
+  "license": "MIT"
+}
